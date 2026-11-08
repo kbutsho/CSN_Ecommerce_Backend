@@ -1,8 +1,8 @@
 ## Backend (Laravel API)
 
-**Frontend Live URL:** [Frontend](https://your-frontend-url.vercel.app)
+**Frontend Live URL:** [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
 
-**Backend Live URL:** [Backend](https://your-backend-url.vercel.app)
+**Backend Live URL:** [https://your-backend-url.vercel.app](https://your-backend-url.vercel.app)
 
 ### Setup Instructions
 
