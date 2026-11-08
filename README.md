@@ -2,7 +2,7 @@
 
 **Frontend URL:** [https://kbutsho-csn-ecommerce.vercel.app](https://kbutsho-csn-ecommerce.vercel.app)
 
-**Backend URL:** [https://www.ecommerce.sdmissionbd.org/api](https://www.ecommerce.sdmissionbd.org/api)
+**Backend URL:** [https://www.ecommerce.sdmissionbd.org/api/products](https://www.ecommerce.sdmissionbd.org/api/products)
 
 ### Setup Instructions
 
@@ -15,3 +15,7 @@
 7. **Run:** `php artisan serve`
 8. **Local URL:** http://localhost:8000
 9. **API Test:** http://localhost:8000/api/shops
+
+### Note
+- <span style="color:red">Image upload is not working on the cPanel server.</span>
+- <span style="color:red">Image upload works correctly on locally.</span>
