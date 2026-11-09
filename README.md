@@ -13,7 +13,7 @@
 6. **Storage Link:** `php artisan storage:link`
 7. **Run:** `php artisan serve`
 8. **Local URL:** http://localhost:8000
-9. **API Test:** http://localhost:8000/api/shops
+9. **API Test:** http://localhost:8000/api/products
 
 ### Note
 - <span style="color:red">Image upload is not working on the cPanel server.</span>
