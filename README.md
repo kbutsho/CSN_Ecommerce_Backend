@@ -16,5 +16,5 @@
 9. **API Test:** http://localhost:8000/api/products
 
 ### Note
-- <span style="color:red">Image upload is not working on the cPanel server.</span>
-- <span style="color:red">Image upload works correctly on locally.</span>
+- Image upload is not working on the cPanel server.
+- Image upload works correctly on locally.
